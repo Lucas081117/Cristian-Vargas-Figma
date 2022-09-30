@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.varota--helado{
+    text-decoration: none;
+    margin-left: 650px;
+    font-size: 100px;
+    font-family:fantasy;
+    color: red;
+}
+header ul li{
+    display: inline;
+    margin-left: 240px;
+    color: white;
+    font-size: 25px;
+    font-family: cursive;
+}
+header{
+    background-color: black;
+}
+.helado{
+    background-color: white;
+    height: 1047px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.helado__1{
+    background-color: white;
+    width: 350px;
+    height: 500px;
+}
+.helado__2{
+    background-color: white;
+    width: 350px;
+    height: 500px;
+}
+.helado__3{
+    background-color: white;
+    width: 350px;
+    height: 500px;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    font-family: fantasy;
+    background-color: red;
+}
+main p{
+    font-size: 50px;
+    text-align: center;
+    background-color: gray;
+}
+footer{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+footer p{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
